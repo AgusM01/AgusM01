@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science, Videogames, Music, Books, History, etc..
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on: At the moment, a project that can allow me to learn.  
-- 📫 How to reach me... Idk, just txt me, I think..
+- 📫 How to reach me... text me.
 
 <!---
 AgusM01/AgusM01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
